@@ -61,3 +61,9 @@ button{
         width: 70px;
     }
 }     */
+
+.container{
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+}
